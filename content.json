@@ -1,0 +1,62 @@
+{
+  "stats": [
+    { "num": "90",   "lab": "Spotify Monthly Listeners", "sub": "open.spotify.com" },
+    { "num": "1.1K", "lab": "Instagram Followers",        "sub": "@domvegzmusic" },
+    { "num": "98",   "lab": "Tracks Released",            "sub": "original productions" },
+    { "num": "4",    "lab": "Festival Stages",            "sub": "Boise Music Fest · Treefort" }
+  ],
+  "heroMini": [
+    { "b": "2026", "s": "Boise Music Fest" },
+    { "b": "293",  "s": "Spotify Followers" },
+    { "b": "6yrs", "s": "Producing" }
+  ],
+  "releases": [
+    { "t": "Bliss",           "y": "2026", "c1": "#FFB13C", "c2": "#FF4D6D", "url": "https://open.spotify.com/album/2BYbAJEtHHsaXSxfCMVLY4" },
+    { "t": "Nostalgia",       "y": "2026", "c1": "#57E7FF", "c2": "#3A1E6E", "url": "https://open.spotify.com/album/0pmAtvtOAoACHVM0TKRNFN" },
+    { "t": "Advanced",        "y": "2026", "c1": "#FF4D6D", "c2": "#150F33", "url": "https://open.spotify.com/album/6BS3E0RwuV4xLr5izMkNLo" },
+    { "t": "Bankruptcy",      "y": "2026", "c1": "#FFD68A", "c2": "#FF4D6D", "url": "https://open.spotify.com/album/0f6P7aL9LCI5398p7C49GW" },
+    { "t": "All-Nighter",     "y": "2025", "c1": "#3A1E6E", "c2": "#FFB13C", "url": "https://open.spotify.com/album/0ZKBpQp7ybUDHCeFssrnko" },
+    { "t": "Purpose of Life", "y": "2025", "c1": "#FFB13C", "c2": "#57E7FF", "url": "https://open.spotify.com/album/5QvpY7cCjlZ6AMCR2qQd92" },
+    { "t": "Shine",           "y": "2025", "c1": "#FFD68A", "c2": "#FFB13C", "url": "https://open.spotify.com/album/6xt8pvitiB2aiuaVUQM4lM" },
+    { "t": "Echoes of Light", "y": "EP",   "c1": "#57E7FF", "c2": "#FF4D6D", "url": "https://open.spotify.com/album/4M789MyJyYJtZZvz8ek3bc" }
+  ],
+  "shows": [
+    { "when": "Jun 27, 2026", "t": "Boise Music Festival 2026", "p": "Expo Idaho · Local Hip Hop / Rap Stage · festival headlined by Marshmello, Sean Paul, Everclear, Eve 6 & MKTO", "tag": "Festival", "up": true },
+    { "when": "2025",         "t": "Boise Music Festival 2025", "p": "Expo Idaho · Local Hip Hop / Rap Stage · festival headlined by Flo Rida, Tyler Hubbard, Neon Trees, Luke Grimes, Sir Mix-A-Lot & Bryan Martin", "tag": "Festival", "up": false },
+    { "when": "2024",         "t": "Treefort Music Fest",       "p": "Boise, Idaho · multi-stage indie & electronic festival", "tag": "Festival", "up": false },
+    { "when": "2024",         "t": "Mr. NHS Talent Showcase",   "p": "Nampa High School · runner-up performance", "tag": "Showcase", "up": false },
+    { "when": "2023",         "t": "Treefort Music Fest",       "p": "Boise, Idaho · early festival breakout", "tag": "Festival", "up": false }
+  ],
+  "videos": [
+    { "t": "Live @ Boise Music Festival 2026", "s": "Mainstage grounds · full set", "url": "" },
+    { "t": "Boise Music Festival 2025",        "s": "Hip Hop / Rap Stage",          "url": "" },
+    { "t": "Treefort Music Fest",              "s": "Festival set · Boise, ID",     "url": "" },
+    { "t": "Studio session",                   "s": "Behind the productions",       "url": "" },
+    { "t": "Club night",                       "s": "Treasure Valley",              "url": "" },
+    { "t": "Track teaser",                     "s": "New release preview",          "url": "" }
+  ],
+  "photos": [
+    { "url": "", "size": "tall" },
+    { "url": "", "size": "mid" },
+    { "url": "", "size": "" },
+    { "url": "", "size": "mid" },
+    { "url": "", "size": "tall" },
+    { "url": "", "size": "" },
+    { "url": "", "size": "mid" },
+    { "url": "", "size": "tall" },
+    { "url": "", "size": "" }
+  ],
+  "portraitUrl": "",
+  "settings": {
+    "showBooking": true
+  },
+  "social": [
+    { "n": "Spotify",     "url": "https://open.spotify.com/artist/4yBxyPda7fMvwnAtd5TwwV" },
+    { "n": "SoundCloud",  "url": "https://soundcloud.com/domvegz" },
+    { "n": "YouTube",     "url": "https://www.youtube.com/@DomVegz" },
+    { "n": "Instagram",   "url": "https://instagram.com/domvegzmusic" },
+    { "n": "X",           "url": "https://x.com/VegzDom" },
+    { "n": "TikTok",      "url": "https://www.tiktok.com/@dom_vegz" },
+    { "n": "Apple Music", "url": "https://music.apple.com/us/artist/dom-vegz/1750850241" }
+  ]
+}
