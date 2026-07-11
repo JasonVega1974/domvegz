@@ -209,7 +209,7 @@
       ],
       blank:function(){return {when:"2026",t:"New show",p:"",tag:"Show",up:false};} },
 
-    videos:{ label:"Videos", singular:"video", key:"videos", titleKey:"t", sub:"Paste a YouTube link and the tile becomes clickable.",
+    videos:{ label:"Videos", singular:"video", key:"videos", titleKey:"t", sub:"Deprecated — the site's video grid now syncs automatically from the YouTube channel every night. This list is no longer shown publicly. Use Settings below to pin a featured video instead.",
       fields:[
         {k:"t",label:"Title"},
         {k:"s",label:"Subtitle",ph:"Festival set · Boise, ID"},
@@ -475,8 +475,13 @@
     $("#body").innerHTML='<div class="card"><div class="card-head"><div class="title">Site sections</div></div>'+
       '<div class="row-check"><input type="checkbox" id="setBooking"'+(s.showBooking!==false?" checked":"")+'>'+
       '<label for="setBooking" class="inl" style="margin:0">Show the <b>Booking</b> section &amp; every “Book Dom” button on the site</label></div>'+
-      '<div class="hint">Turn this off to hide the booking calendar, the form, and all booking links until Dom is ready to take dates. Turn it back on anytime.</div></div>';
+      '<div class="hint">Turn this off to hide the booking calendar, the form, and all booking links until Dom is ready to take dates. Turn it back on anytime.</div></div>'+
+      '<div class="card"><div class="card-head"><div class="title">Featured video</div></div>'+
+      '<label for="setFeatured" class="inl">Pin a specific video as the featured player (optional)</label>'+
+      '<input type="text" id="setFeatured" value="'+esc(s.featuredVideoId||"")+'" placeholder="Paste a YouTube link, or leave blank for newest">'+
+      '<div class="hint">Leave blank to always feature the newest upload. Paste a full YouTube URL or just the video ID to pin a specific one.</div></div>';
     $("#setBooking").addEventListener("change",function(e){ data.settings.showBooking=e.target.checked; setDirty(true); });
+    $("#setFeatured").addEventListener("input",function(e){ data.settings.featuredVideoId=e.target.value.trim(); setDirty(true); });
   }
 
   /* ---------- dirty ---------- */
