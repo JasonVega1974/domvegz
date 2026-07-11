@@ -46,6 +46,7 @@
     { "url": "", "size": "tall" },
     { "url": "", "size": "" }
   ],
+  "merch": [],
   "portraitUrl": "assets/img/portrait.webp",
   "settings": {
     "showBooking": true

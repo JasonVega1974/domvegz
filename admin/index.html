@@ -221,6 +221,15 @@
       fields:[ {k:"size",label:"Tile size",type:"select",options:[["","Normal"],["mid","Medium"],["tall","Tall"]]} ],
       blank:function(){return {url:"",size:""};} },
 
+    merch:{ label:"Merch", singular:"item", key:"merch", titleKey:"name", image:true, imgKey:"image",
+      sub:"Manually curated — Streamlabs doesn't expose product data via API, so add each item's name, price, photo, and its Streamlabs product link by hand.",
+      fields:[
+        {k:"name",label:"Name",ph:"Dom Vegz Tour Tee"},
+        {k:"price",label:"Price",ph:"$25"},
+        {k:"streamlabsUrl",label:"Streamlabs product link",type:"url",full:true,ph:"https://streamlabs.com/dominicvega/merch/…"}
+      ],
+      blank:function(){return {name:"New item",price:"$0",image:"",streamlabsUrl:"https://streamlabs.com/dominicvega/merch"};} },
+
     stats:{ label:"Stats", singular:"stat", key:"stats", titleKey:"lab", sub:"The ‘by the numbers’ cards.",
       fields:[
         {k:"num",label:"Number",ph:"90"},
@@ -247,13 +256,13 @@
 
     settings:{ label:"Settings", singular:"setting", key:"settings", settings:true, sub:"Show or hide parts of the public site." }
   };
-  var ORDER=["releases","shows","videos","photos","stats","heroMini","social","portrait","settings"];
+  var ORDER=["releases","shows","videos","photos","merch","stats","heroMini","social","portrait","settings"];
 
   /* ---------- seed (used only if content.json doesn't exist yet) ---------- */
   var SEED={
     stats:[{num:"90",lab:"Spotify Monthly Listeners",sub:"open.spotify.com"},{num:"1.1K",lab:"Instagram Followers",sub:"@domvegzmusic"},{num:"98",lab:"Tracks Released",sub:"original productions"},{num:"4",lab:"Festival Stages",sub:"Boise Music Fest · Treefort"}],
     heroMini:[{b:"2026",s:"Boise Music Fest"},{b:"293",s:"Spotify Followers"},{b:"6yrs",s:"Producing"}],
-    releases:[],shows:[],videos:[],photos:[],portraitUrl:"",social:[],settings:{showBooking:true}
+    releases:[],shows:[],videos:[],photos:[],merch:[],portraitUrl:"",social:[],settings:{showBooking:true}
   };
 
   /* ---------- state ---------- */
@@ -374,7 +383,7 @@
     });
   }
   function normalize(){
-    ["stats","heroMini","releases","shows","videos","photos","social"].forEach(function(k){ if(!Array.isArray(data[k])) data[k]=[]; });
+    ["stats","heroMini","releases","shows","videos","photos","merch","social"].forEach(function(k){ if(!Array.isArray(data[k])) data[k]=[]; });
     if(typeof data.portraitUrl!=="string") data.portraitUrl="";
     if(!data.settings||typeof data.settings!=="object") data.settings={};
     if(typeof data.settings.showBooking!=="boolean") data.settings.showBooking=true;
@@ -425,7 +434,7 @@
     d.className="card"+(it.up?" feat":"");
     d.setAttribute("data-i",i);
 
-    var titleTxt = sec.image ? (sec.label.replace(/s$/,"")+" "+(i+1))
+    var titleTxt = sec.image && !sec.titleKey ? (sec.label.replace(/s$/,"")+" "+(i+1))
                  : sec.social ? (it.n||"Link")
                  : (it[sec.titleKey]||("("+sec.singular+")"));
     var titleIco = sec.social ? socSvg(it.n,18)+" " : "";
