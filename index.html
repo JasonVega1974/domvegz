@@ -380,14 +380,6 @@ section{ position:relative; padding:clamp(72px,11vh,140px) 0 }
 .photo .ph{ font-family:var(--f-mono); font-size:11px; letter-spacing:.1em; color:rgba(251,243,228,.75); text-transform:uppercase; text-align:center; padding:18px; z-index:1 }
 .photo.tall{ min-height:300px } .photo.mid{ min-height:230px }
 
-.upload-note{
-  margin-top:30px; border:1px dashed rgba(255,177,60,.4); border-radius:var(--r); padding:22px 24px;
-  background:rgba(255,177,60,.04); display:flex; gap:16px; align-items:center; flex-wrap:wrap;
-}
-.upload-note svg{ width:30px; height:30px; flex:none; stroke:var(--gold) }
-.upload-note p{ font-size:14.5px; color:var(--cream) }
-.upload-note b{ color:var(--gold) }
-
 /* YOUTUBE LIBRARY */
 .yt-lib{ margin-bottom:34px }
 .yt-top{ display:grid; grid-template-columns:1fr 260px; gap:24px; margin-bottom:28px }
@@ -823,11 +815,6 @@ h2.section-title{ font-family:'Flipside','Montserrat',sans-serif; font-weight:40
       <button class="btn btn-ghost yt-more" id="ytMore" hidden type="button">Load more</button>
     </div>
     <div class="photo-grid hidden reveal" id="photoGrid"></div>
-
-    <div class="upload-note reveal">
-      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><path d="M12 16V4M7 9l5-5 5 5"/><path d="M4 16v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/></svg>
-      <p><b>Upload-ready.</b> Photo tiles are managed slots — Dom logs into a PIN-gated admin panel and drops in new shots, they publish instantly. Videos sync automatically from YouTube every night, no upload needed.</p>
-    </div>
   </div>
 </section>
 
