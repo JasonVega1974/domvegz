@@ -8,7 +8,7 @@
   "heroMini": [
     { "b": "2026", "s": "Boise Music Fest" },
     { "b": "293",  "s": "Spotify Followers" },
-    { "b": "6yrs", "s": "Producing" }
+    { "b": "7yrs", "s": "Producing" }
   ],
   "releases": [
     { "t": "Bliss",           "y": "2026", "c1": "#FFB13C", "c2": "#FF4D6D", "url": "https://open.spotify.com/album/2BYbAJEtHHsaXSxfCMVLY4" },
@@ -36,20 +36,20 @@
     { "t": "Track teaser",                     "s": "New release preview",          "url": "" }
   ],
   "photos": [
-    { "url": "", "size": "tall" },
-    { "url": "", "size": "mid" },
-    { "url": "", "size": "" },
-    { "url": "", "size": "mid" },
-    { "url": "", "size": "tall" },
-    { "url": "", "size": "" },
-    { "url": "", "size": "mid" },
-    { "url": "", "size": "tall" },
-    { "url": "", "size": "" }
+    { "url": "assets/img/photos/forest-portrait.webp", "size": "tall" },
+    { "url": "assets/img/photos/dj-set-smile.webp", "size": "" },
+    { "url": "assets/img/photos/night-portrait.webp", "size": "tall" },
+    { "url": "assets/img/photos/festival-tent.webp", "size": "mid" },
+    { "url": "assets/img/photos/cherry-blossom.webp", "size": "tall" },
+    { "url": "assets/img/photos/talent-show.webp", "size": "mid" },
+    { "url": "assets/img/photos/dj-set-focus.webp", "size": "" },
+    { "url": "assets/img/photos/festival-stage.webp", "size": "mid" },
+    { "url": "assets/img/photos/countryside.webp", "size": "" }
   ],
   "merch": [],
   "portraitUrl": "assets/img/portrait.webp",
   "settings": {
-    "showBooking": true
+    "showBooking": false
   },
   "social": [
     { "n": "Spotify",     "url": "https://open.spotify.com/artist/4yBxyPda7fMvwnAtd5TwwV" },

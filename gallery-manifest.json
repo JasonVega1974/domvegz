@@ -544,5 +544,17 @@
     "image_file": "assets/img/gallery/bliss.jpeg",
     "title": "Bliss",
     "artist_credit": "Max Woodz & Dom Vegz"
+  },
+  {
+    "original_upload_file": "bankruptcy.jpg",
+    "image_file": "assets/img/gallery/bankruptcy.jpg",
+    "title": "Bankruptcy",
+    "artist_credit": "Dom Vegz"
+  },
+  {
+    "original_upload_file": "shine.jpg",
+    "image_file": "assets/img/gallery/shine.jpg",
+    "title": "Shine",
+    "artist_credit": "Dom Vegz"
   }
 ]
