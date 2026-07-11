@@ -1,7 +1,5 @@
 {
-  "_fixture": true,
-  "_note": "Placeholder data seeded by hand because .github/workflows/youtube-sync.yml has not run yet (pending first workflow_dispatch or the nightly cron). Video IDs are fake and thumbnails will 404 until the real sync overwrites this file end-to-end. Safe to ignore/delete once the Action has run once.",
-  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T19:02:43.792Z",
   "channel": {
     "id": "UCDDzP8DrQ9JAPmgs1VpF2PQ",
     "handle": "@DomVegz",
@@ -9,17 +7,1585 @@
     "musicUrl": "https://music.youtube.com/channel/UCDDzP8DrQ9JAPmgs1VpF2PQ"
   },
   "videos": [
-    { "id": "fx_00000012", "title": "Bliss (Official Audio)", "publishedAt": "2026-06-02T18:00:00.000Z", "duration": "3:24", "views": 1840, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000012/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000012/hqdefault.jpg" } },
-    { "id": "fx_00000011", "title": "Live @ Boise Music Festival 2026 - Mainstage Full Set", "publishedAt": "2026-05-20T02:30:00.000Z", "duration": "42:10", "views": 3120, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000011/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000011/hqdefault.jpg" } },
-    { "id": "fx_00000010", "title": "Nostalgia (Official Visualizer)", "publishedAt": "2026-04-11T17:00:00.000Z", "duration": "3:58", "views": 2410, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000010/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000010/hqdefault.jpg" } },
-    { "id": "fx_00000009", "title": "Advanced (Official Audio)", "publishedAt": "2026-03-05T16:00:00.000Z", "duration": "3:12", "views": 1560, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000009/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000009/hqdefault.jpg" } },
-    { "id": "fx_00000008", "title": "Track Teaser - New Release Preview", "publishedAt": "2026-02-14T19:20:00.000Z", "duration": "0:47", "views": 980, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000008/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000008/hqdefault.jpg" } },
-    { "id": "fx_00000007", "title": "Bankruptcy (Official Audio)", "publishedAt": "2026-01-09T15:00:00.000Z", "duration": "3:33", "views": 2050, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000007/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000007/hqdefault.jpg" } },
-    { "id": "fx_00000006", "title": "Studio Session - Behind the Productions", "publishedAt": "2025-11-22T20:00:00.000Z", "duration": "8:15", "views": 1230, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000006/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000006/hqdefault.jpg" } },
-    { "id": "fx_00000005", "title": "All-Nighter (Official Audio)", "publishedAt": "2025-10-03T16:30:00.000Z", "duration": "4:02", "views": 2870, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000005/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000005/hqdefault.jpg" } },
-    { "id": "fx_00000004", "title": "Purpose of Life (Official Audio)", "publishedAt": "2025-08-19T17:45:00.000Z", "duration": "3:41", "views": 3340, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000004/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000004/hqdefault.jpg" } },
-    { "id": "fx_00000003", "title": "Boise Music Festival 2025 - Hip Hop / Rap Stage", "publishedAt": "2025-06-28T03:00:00.000Z", "duration": "38:22", "views": 4210, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000003/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000003/hqdefault.jpg" } },
-    { "id": "fx_00000002", "title": "Shine (Official Audio)", "publishedAt": "2025-05-02T16:00:00.000Z", "duration": "3:29", "views": 1990, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000002/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000002/hqdefault.jpg" } },
-    { "id": "fx_00000001", "title": "Treefort Music Fest - Festival Set, Boise ID", "publishedAt": "2025-03-27T02:15:00.000Z", "duration": "29:50", "views": 1670, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000001/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000001/hqdefault.jpg" } }
+    {
+      "id": "ZktmVprbwbs",
+      "title": "Dom Vegz Live @ Boise Music Festival 2026 (Hip Hop/Rap Stage)",
+      "publishedAt": "2026-07-10T17:13:06Z",
+      "duration": "1:12:59",
+      "views": 36,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/ZktmVprbwbs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/ZktmVprbwbs/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "-y_1VNiS7WQ",
+      "title": "Dom Vegz - I See You",
+      "publishedAt": "2026-07-10T15:31:40Z",
+      "duration": "2:55",
+      "views": 38,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/-y_1VNiS7WQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/-y_1VNiS7WQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/-y_1VNiS7WQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "C_p_13F6Azo",
+      "title": "Max WoodZ & Dom Vegz - Bliss (Visual)",
+      "publishedAt": "2026-06-12T06:00:32Z",
+      "duration": "3:03",
+      "views": 49,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/C_p_13F6Azo/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/C_p_13F6Azo/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/C_p_13F6Azo/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "fgommADl_kg",
+      "title": "Max WoodZ & Dom Vegz - Bliss",
+      "publishedAt": "2026-06-12T06:00:14Z",
+      "duration": "3:03",
+      "views": 22,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/fgommADl_kg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/fgommADl_kg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/fgommADl_kg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "QKcXTfjUtZA",
+      "title": "Dom Vegz - Nostalgia",
+      "publishedAt": "2026-05-15T06:00:24Z",
+      "duration": "4:08",
+      "views": 21,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/QKcXTfjUtZA/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/QKcXTfjUtZA/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/QKcXTfjUtZA/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "UXwYtC4QRxU",
+      "title": "Billie Eillish & Khalid - Lovely (Dom Vegz Remix)",
+      "publishedAt": "2026-05-08T06:00:18Z",
+      "duration": "3:14",
+      "views": 76,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/UXwYtC4QRxU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/UXwYtC4QRxU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/UXwYtC4QRxU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "t1SjrfmNxao",
+      "title": "Dom Vegz - Bankruptcy",
+      "publishedAt": "2026-04-10T06:00:45Z",
+      "duration": "2:19",
+      "views": 56,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/t1SjrfmNxao/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/t1SjrfmNxao/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/t1SjrfmNxao/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "9XiPv9HDmAo",
+      "title": "MGMT - Kids (Dom Vegz Remix)",
+      "publishedAt": "2026-04-03T06:00:07Z",
+      "duration": "4:00",
+      "views": 178,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/9XiPv9HDmAo/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/9XiPv9HDmAo/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/9XiPv9HDmAo/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "UeYShdwKlhw",
+      "title": "Dom Vegz - Advanced",
+      "publishedAt": "2026-02-27T07:00:23Z",
+      "duration": "2:27",
+      "views": 66,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/UeYShdwKlhw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/UeYShdwKlhw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/UeYShdwKlhw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "a90QHdtRgQg",
+      "title": "Dom Vegz - Shine",
+      "publishedAt": "2025-10-17T06:00:00Z",
+      "duration": "3:16",
+      "views": 22,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/a90QHdtRgQg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/a90QHdtRgQg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/a90QHdtRgQg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "fTCXAMk12qY",
+      "title": "Dom Vegz - Broke",
+      "publishedAt": "2025-10-10T06:00:37Z",
+      "duration": "3:30",
+      "views": 140,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/fTCXAMk12qY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/fTCXAMk12qY/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/fTCXAMk12qY/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "hS-CO_R_dHc",
+      "title": "Dom Vegz - Empire",
+      "publishedAt": "2025-10-03T07:34:35Z",
+      "duration": "4:20",
+      "views": 86,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/hS-CO_R_dHc/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/hS-CO_R_dHc/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/hS-CO_R_dHc/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "cdbXd-AMSZw",
+      "title": "Dom Vegz - All-Nighter",
+      "publishedAt": "2025-09-26T10:45:32Z",
+      "duration": "3:01",
+      "views": 16,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/cdbXd-AMSZw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/cdbXd-AMSZw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/cdbXd-AMSZw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "G53qxr_GVm0",
+      "title": "Dom Vegz - Hawaii Island (Island Glow)",
+      "publishedAt": "2025-09-19T06:00:11Z",
+      "duration": "3:09",
+      "views": 41,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/G53qxr_GVm0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/G53qxr_GVm0/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/G53qxr_GVm0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "9iaOyzG_RCg",
+      "title": "Dom Vegz - Endless Days (Acoustic Version)",
+      "publishedAt": "2025-08-22T17:13:02Z",
+      "duration": "3:48",
+      "views": 65,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/9iaOyzG_RCg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/9iaOyzG_RCg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/9iaOyzG_RCg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "hMvoWfykzTg",
+      "title": "Dom Vegz - Endless Days (Lyric Video)",
+      "publishedAt": "2025-07-18T12:01:21Z",
+      "duration": "4:00",
+      "views": 289,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/hMvoWfykzTg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/hMvoWfykzTg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/hMvoWfykzTg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "yAlaV83NRYA",
+      "title": "Dom Vegz - Endless Days",
+      "publishedAt": "2025-07-13T06:00:48Z",
+      "duration": "4:00",
+      "views": 56,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/yAlaV83NRYA/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/yAlaV83NRYA/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/yAlaV83NRYA/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "xCInlcpHPcU",
+      "title": "Dom Vegz - Brighter World (Lyric Video)",
+      "publishedAt": "2025-07-11T12:01:54Z",
+      "duration": "3:52",
+      "views": 24,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/xCInlcpHPcU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/xCInlcpHPcU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/xCInlcpHPcU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "NhoW0ub53YI",
+      "title": "Dom Vegz - Brighter World",
+      "publishedAt": "2025-07-11T06:00:18Z",
+      "duration": "3:53",
+      "views": 32,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/NhoW0ub53YI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/NhoW0ub53YI/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/NhoW0ub53YI/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "paOp-XwRPUQ",
+      "title": "Dom Vegz - This Is Where I'm Meant To Be (Lyric Video)",
+      "publishedAt": "2025-07-04T12:46:54Z",
+      "duration": "3:05",
+      "views": 33,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/paOp-XwRPUQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/paOp-XwRPUQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/paOp-XwRPUQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "U89PSih9yCM",
+      "title": "Dom Vegz - This Is Where I'm Meant To Be",
+      "publishedAt": "2025-07-04T12:25:59Z",
+      "duration": "3:05",
+      "views": 28,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/U89PSih9yCM/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/U89PSih9yCM/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/U89PSih9yCM/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "xYuQYn4h0do",
+      "title": "Dom Vegz - Poison (Lyric Video)",
+      "publishedAt": "2025-06-27T12:01:58Z",
+      "duration": "3:26",
+      "views": 392,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/xYuQYn4h0do/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/xYuQYn4h0do/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/xYuQYn4h0do/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "pNpjCfL3xNs",
+      "title": "Dom Vegz - Poison",
+      "publishedAt": "2025-06-27T06:00:50Z",
+      "duration": "3:25",
+      "views": 375,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/pNpjCfL3xNs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/pNpjCfL3xNs/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/pNpjCfL3xNs/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "SDY4Vtkhg_Q",
+      "title": "Dom Vegz Live @ Boise Music Festival 2025 (Hip Hop/Rap Stage)",
+      "publishedAt": "2025-06-25T06:00:32Z",
+      "duration": "11:44",
+      "views": 135,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/SDY4Vtkhg_Q/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/SDY4Vtkhg_Q/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "dtX23wBmq64",
+      "title": "We The Kingdom - Waking Up (Dom Vegz Remix)",
+      "publishedAt": "2025-06-13T06:00:35Z",
+      "duration": "2:44",
+      "views": 120,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/dtX23wBmq64/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/dtX23wBmq64/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/dtX23wBmq64/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "qv4cpIlUMVg",
+      "title": "Dom Vegz - Voltage Drip",
+      "publishedAt": "2025-05-09T06:00:51Z",
+      "duration": "2:53",
+      "views": 501,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/qv4cpIlUMVg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/qv4cpIlUMVg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/qv4cpIlUMVg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "Jmt8bG0-GYw",
+      "title": "Of Monsters And Men - Little Talks (Dom Vegz Remix)",
+      "publishedAt": "2025-04-15T23:00:15Z",
+      "duration": "3:39",
+      "views": 531,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Jmt8bG0-GYw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Jmt8bG0-GYw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/Jmt8bG0-GYw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "X3FTrDST2SY",
+      "title": "Dom Vegz Live @ My Shed 2025",
+      "publishedAt": "2025-04-08T09:27:52Z",
+      "duration": "28:59",
+      "views": 79,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/X3FTrDST2SY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/X3FTrDST2SY/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "5fdCCc0Cdzk",
+      "title": "Eurythmics - Sweet Dreams (Dom Vegz Remix)",
+      "publishedAt": "2025-02-07T07:00:02Z",
+      "duration": "2:59",
+      "views": 500,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/5fdCCc0Cdzk/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/5fdCCc0Cdzk/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/5fdCCc0Cdzk/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "6Vb2-r5vDnc",
+      "title": "Dom Vegz - Forever",
+      "publishedAt": "2024-12-27T09:41:28Z",
+      "duration": "5:22",
+      "views": 407,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/6Vb2-r5vDnc/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/6Vb2-r5vDnc/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/6Vb2-r5vDnc/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "bmKYyce0C8c",
+      "title": "Dom Vegz - Bluetooth",
+      "publishedAt": "2024-12-13T07:00:27Z",
+      "duration": "2:33",
+      "views": 494,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/bmKYyce0C8c/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/bmKYyce0C8c/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/bmKYyce0C8c/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "hhU_J19Mopg",
+      "title": "Dom Vegz - Insane",
+      "publishedAt": "2024-11-29T07:00:25Z",
+      "duration": "3:06",
+      "views": 72,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/hhU_J19Mopg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/hhU_J19Mopg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/hhU_J19Mopg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "-OC3sUBCoFk",
+      "title": "Dom Vegz - Thinking",
+      "publishedAt": "2024-11-15T19:06:55Z",
+      "duration": "3:38",
+      "views": 367,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/-OC3sUBCoFk/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/-OC3sUBCoFk/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/-OC3sUBCoFk/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "CCQ0IG1Mn2I",
+      "title": "Dom Vegz - Monstara",
+      "publishedAt": "2024-11-01T08:57:56Z",
+      "duration": "4:56",
+      "views": 120,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/CCQ0IG1Mn2I/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/CCQ0IG1Mn2I/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/CCQ0IG1Mn2I/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "ee1SmZpzx_M",
+      "title": "Avicii - The Nights (Dom Vegz Remix)",
+      "publishedAt": "2024-09-06T18:07:38Z",
+      "duration": "3:17",
+      "views": 486,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/ee1SmZpzx_M/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/ee1SmZpzx_M/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/ee1SmZpzx_M/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "51KIoax3LpA",
+      "title": "Dom Vegz & DMV - Skies",
+      "publishedAt": "2024-07-05T12:00:05Z",
+      "duration": "2:53",
+      "views": 33,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/51KIoax3LpA/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/51KIoax3LpA/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/51KIoax3LpA/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "DHJ6xllOFzw",
+      "title": "Dom Vegz - Memories",
+      "publishedAt": "2024-06-14T12:00:12Z",
+      "duration": "3:29",
+      "views": 18,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/DHJ6xllOFzw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/DHJ6xllOFzw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/DHJ6xllOFzw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "P59BTAl1DUs",
+      "title": "Dom Vegz - Dreams",
+      "publishedAt": "2024-05-24T20:15:37Z",
+      "duration": "2:36",
+      "views": 36,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/P59BTAl1DUs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/P59BTAl1DUs/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/P59BTAl1DUs/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "ctJyC2jDr2g",
+      "title": "Dom Vegz Live @ Nampa High School 2024 (Mr. NHS 2024)",
+      "publishedAt": "2024-05-10T13:12:47Z",
+      "duration": "1:39",
+      "views": 117,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/ctJyC2jDr2g/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/ctJyC2jDr2g/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "xcsNmhZvhDU",
+      "title": "Dom Vegz - Waiting For You",
+      "publishedAt": "2024-05-03T12:00:55Z",
+      "duration": "3:02",
+      "views": 160,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/xcsNmhZvhDU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/xcsNmhZvhDU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/xcsNmhZvhDU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "Vm8xlVY03fg",
+      "title": "Dom Vegz - Wax On Wax Off (feat. Mr. Miyagi)",
+      "publishedAt": "2024-04-12T12:00:27Z",
+      "duration": "2:16",
+      "views": 274,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Vm8xlVY03fg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Vm8xlVY03fg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/Vm8xlVY03fg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "DHr763QgTG4",
+      "title": "Dom Vegz Live @ Treefort Music Festival 2024 (The Nest Stage)",
+      "publishedAt": "2024-03-25T06:00:07Z",
+      "duration": "15:04",
+      "views": 186,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/DHr763QgTG4/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/DHr763QgTG4/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "Jo_9Y0xNNJ8",
+      "title": "Dom Vegz & King David - Heartbeat",
+      "publishedAt": "2024-03-20T12:00:15Z",
+      "duration": "2:16",
+      "views": 340,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Jo_9Y0xNNJ8/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Jo_9Y0xNNJ8/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/Jo_9Y0xNNJ8/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "3zhwyuXwv9Q",
+      "title": "Dom Vegz - Humanity",
+      "publishedAt": "2024-03-01T13:00:05Z",
+      "duration": "3:31",
+      "views": 60,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/3zhwyuXwv9Q/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/3zhwyuXwv9Q/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/3zhwyuXwv9Q/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "_iEO5RS8u7Y",
+      "title": "Dom Vegz Live @ Home February Party 2024",
+      "publishedAt": "2024-02-28T14:03:01Z",
+      "duration": "34:21",
+      "views": 73,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/_iEO5RS8u7Y/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/_iEO5RS8u7Y/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/_iEO5RS8u7Y/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "LSAp1h0678U",
+      "title": "Dom Vegz & Max WoodZ - Reason To Try",
+      "publishedAt": "2024-02-09T13:00:13Z",
+      "duration": "2:58",
+      "views": 58,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/LSAp1h0678U/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/LSAp1h0678U/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/LSAp1h0678U/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "lrIx5EC5c9g",
+      "title": "Dom Vegz - Lost",
+      "publishedAt": "2024-01-19T13:00:44Z",
+      "duration": "3:06",
+      "views": 143,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/lrIx5EC5c9g/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/lrIx5EC5c9g/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/lrIx5EC5c9g/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "5gn1O47PYSk",
+      "title": "Dom Vegz - Electromagnetic",
+      "publishedAt": "2023-12-29T18:46:44Z",
+      "duration": "2:55",
+      "views": 158,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/5gn1O47PYSk/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/5gn1O47PYSk/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "FrgEs6UWUZw",
+      "title": "Dom Vegz - Peace",
+      "publishedAt": "2023-11-17T13:00:14Z",
+      "duration": "3:05",
+      "views": 186,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/FrgEs6UWUZw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/FrgEs6UWUZw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/FrgEs6UWUZw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "Ez0bGzgWGq0",
+      "title": "Dom Vegz - Fallen Angels",
+      "publishedAt": "2023-10-27T16:07:11Z",
+      "duration": "4:32",
+      "views": 64,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Ez0bGzgWGq0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Ez0bGzgWGq0/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/Ez0bGzgWGq0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "BSdJk-KkvgM",
+      "title": "Dom Vegz - Mysterious",
+      "publishedAt": "2023-10-06T12:41:41Z",
+      "duration": "3:22",
+      "views": 235,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/BSdJk-KkvgM/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/BSdJk-KkvgM/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/BSdJk-KkvgM/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "SYDRiWo2hDU",
+      "title": "TJ Hill - Watching and Dreaming (Dom Vegz Remix)",
+      "publishedAt": "2023-09-15T12:00:33Z",
+      "duration": "3:07",
+      "views": 31,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/SYDRiWo2hDU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/SYDRiWo2hDU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/SYDRiWo2hDU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "1S2CxHL86Mw",
+      "title": "Dom Vegz - Bullseye",
+      "publishedAt": "2023-08-25T12:00:01Z",
+      "duration": "2:29",
+      "views": 39,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/1S2CxHL86Mw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/1S2CxHL86Mw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/1S2CxHL86Mw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "QgY52pnPdQw",
+      "title": "Dom Vegz - Summertime",
+      "publishedAt": "2023-08-04T19:24:40Z",
+      "duration": "2:43",
+      "views": 156,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/QgY52pnPdQw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/QgY52pnPdQw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/QgY52pnPdQw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "bb6-ymEF3-k",
+      "title": "Dom Vegz - Invisible",
+      "publishedAt": "2023-07-14T12:00:35Z",
+      "duration": "2:22",
+      "views": 21,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/bb6-ymEF3-k/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/bb6-ymEF3-k/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/bb6-ymEF3-k/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "jTTj0JSP0nI",
+      "title": "Dom Vegz & Max WoodZ - Gas Leak",
+      "publishedAt": "2023-06-23T12:00:40Z",
+      "duration": "2:43",
+      "views": 84,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/jTTj0JSP0nI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/jTTj0JSP0nI/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/jTTj0JSP0nI/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "hV8s9zdDn64",
+      "title": "Dom Vegz- Paradise",
+      "publishedAt": "2023-06-02T12:00:29Z",
+      "duration": "2:45",
+      "views": 76,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/hV8s9zdDn64/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/hV8s9zdDn64/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/hV8s9zdDn64/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "qcc44FtcpDw",
+      "title": "Mau P - Drugs From Amsterdam (Dom Vegz Remix)",
+      "publishedAt": "2023-05-12T19:28:11Z",
+      "duration": "2:54",
+      "views": 81,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/qcc44FtcpDw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/qcc44FtcpDw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/qcc44FtcpDw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "TgYVFRqaHqs",
+      "title": "Dom Vegz - Forever Memory",
+      "publishedAt": "2023-04-21T12:00:17Z",
+      "duration": "2:57",
+      "views": 56,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/TgYVFRqaHqs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/TgYVFRqaHqs/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/TgYVFRqaHqs/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "rEWRyIL1ESg",
+      "title": "Dom Vegz - Sunrise",
+      "publishedAt": "2023-03-31T12:00:43Z",
+      "duration": "3:27",
+      "views": 36,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/rEWRyIL1ESg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/rEWRyIL1ESg/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/rEWRyIL1ESg/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "GrU4UPgJmdc",
+      "title": "Dom Vegz Live @ Treefort Music Festival 2023 (Radioland Stage)",
+      "publishedAt": "2023-03-25T15:20:29Z",
+      "duration": "5:22",
+      "views": 262,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/GrU4UPgJmdc/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/GrU4UPgJmdc/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "21Xtg5mTCro",
+      "title": "Dom Vegz - Colors",
+      "publishedAt": "2023-03-10T13:00:01Z",
+      "duration": "3:12",
+      "views": 59,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/21Xtg5mTCro/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/21Xtg5mTCro/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/21Xtg5mTCro/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "ePFaquugwIU",
+      "title": "Dom Vegz - Anonymous",
+      "publishedAt": "2023-02-24T13:00:33Z",
+      "duration": "2:42",
+      "views": 26,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/ePFaquugwIU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/ePFaquugwIU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/ePFaquugwIU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "xc2VhrzI-zY",
+      "title": "Mareux - The Perfect Girl (Dom Vegz Remix)",
+      "publishedAt": "2023-02-03T13:00:46Z",
+      "duration": "3:33",
+      "views": 480,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/xc2VhrzI-zY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/xc2VhrzI-zY/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/xc2VhrzI-zY/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "iNxhA2G7wq0",
+      "title": "Dom Vegz - Surprise",
+      "publishedAt": "2023-01-20T13:00:32Z",
+      "duration": "3:11",
+      "views": 49,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/iNxhA2G7wq0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/iNxhA2G7wq0/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/iNxhA2G7wq0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "jOaGOwTw7oo",
+      "title": "Dom Vegz - Together (Official Audio)",
+      "publishedAt": "2022-12-30T13:30:11Z",
+      "duration": "3:11",
+      "views": 55,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/jOaGOwTw7oo/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/jOaGOwTw7oo/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "2YhRmDztwl4",
+      "title": "Dom Vegz - Together (Official Music Video)",
+      "publishedAt": "2022-12-30T13:00:01Z",
+      "duration": "3:14",
+      "views": 60,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/2YhRmDztwl4/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/2YhRmDztwl4/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "H9qHpera8ZM",
+      "title": "Tate McRae - You Broke Me First (Dom Vegz & Max WoodZ Remix)",
+      "publishedAt": "2022-12-23T14:00:12Z",
+      "duration": "3:56",
+      "views": 66,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/H9qHpera8ZM/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/H9qHpera8ZM/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/H9qHpera8ZM/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "8yZPewbr9v0",
+      "title": "P!nk - What About Us (Dom Vegz Remix)",
+      "publishedAt": "2022-11-11T13:00:05Z",
+      "duration": "3:44",
+      "views": 113,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/8yZPewbr9v0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/8yZPewbr9v0/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/8yZPewbr9v0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "n4wid-QzuSQ",
+      "title": "Avicii - Heaven Vs. Avicii - Levels (Dom Vegz Mashup)",
+      "publishedAt": "2022-10-29T00:47:11Z",
+      "duration": "3:19",
+      "views": 703,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/n4wid-QzuSQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/n4wid-QzuSQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/n4wid-QzuSQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "D0HXyrx7wl8",
+      "title": "Dom Vegz - October Sky",
+      "publishedAt": "2022-10-21T12:00:15Z",
+      "duration": "3:32",
+      "views": 73,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/D0HXyrx7wl8/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/D0HXyrx7wl8/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/D0HXyrx7wl8/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "hCI-98YQyrM",
+      "title": "Dom Vegz - Horizon (Radio Edit)",
+      "publishedAt": "2022-10-01T12:00:28Z",
+      "duration": "3:16",
+      "views": 37,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/hCI-98YQyrM/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/hCI-98YQyrM/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/hCI-98YQyrM/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "isQMjkh4XiE",
+      "title": "Dom Vegz - Horizon",
+      "publishedAt": "2022-09-30T12:00:27Z",
+      "duration": "3:53",
+      "views": 31,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/isQMjkh4XiE/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/isQMjkh4XiE/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/isQMjkh4XiE/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "LiaWM104qes",
+      "title": "At Home DJ",
+      "publishedAt": "2022-09-24T20:24:04Z",
+      "duration": "33:43",
+      "views": 47,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/LiaWM104qes/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/LiaWM104qes/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/LiaWM104qes/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "0oLJyyeSkBM",
+      "title": "Dom Vegz - Spotlight",
+      "publishedAt": "2022-09-16T12:00:00Z",
+      "duration": "3:31",
+      "views": 35,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/0oLJyyeSkBM/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/0oLJyyeSkBM/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/0oLJyyeSkBM/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "Bd45SnnFF6E",
+      "title": "Dom Vegz - Space",
+      "publishedAt": "2022-09-02T12:00:11Z",
+      "duration": "2:05",
+      "views": 34,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Bd45SnnFF6E/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Bd45SnnFF6E/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/Bd45SnnFF6E/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "RAoQOWTHVgQ",
+      "title": "Dom Vegz & DMV - Dead End",
+      "publishedAt": "2022-08-19T12:00:18Z",
+      "duration": "2:25",
+      "views": 46,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/RAoQOWTHVgQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/RAoQOWTHVgQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/RAoQOWTHVgQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "dexH0ODCe8w",
+      "title": "Dom Vegz - Daydream",
+      "publishedAt": "2022-08-05T12:00:22Z",
+      "duration": "3:10",
+      "views": 52,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/dexH0ODCe8w/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/dexH0ODCe8w/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/dexH0ODCe8w/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "jn8Ajkuygl4",
+      "title": "A New Beginning",
+      "publishedAt": "2022-08-01T06:00:12Z",
+      "duration": "0:57",
+      "views": 40,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/jn8Ajkuygl4/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/jn8Ajkuygl4/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "z7Y-tpdsmD0",
+      "title": "Kate Bush - Running Up That Hill (Dom Vegz Remix)",
+      "publishedAt": "2022-07-08T11:00:38Z",
+      "duration": "3:35",
+      "views": 71,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/z7Y-tpdsmD0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/z7Y-tpdsmD0/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/z7Y-tpdsmD0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "JC6rSHgSLVw",
+      "title": "Dom Vegz - Blinding",
+      "publishedAt": "2022-06-24T11:00:24Z",
+      "duration": "2:42",
+      "views": 57,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/JC6rSHgSLVw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/JC6rSHgSLVw/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/JC6rSHgSLVw/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "0lj6mZNicT4",
+      "title": "Dom Vegz - Tragic",
+      "publishedAt": "2022-06-03T11:00:01Z",
+      "duration": "2:47",
+      "views": 48,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/0lj6mZNicT4/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/0lj6mZNicT4/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/0lj6mZNicT4/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "QtvVmG17TUY",
+      "title": "Dom Vegz - Resistance",
+      "publishedAt": "2022-05-27T11:00:24Z",
+      "duration": "3:21",
+      "views": 66,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/QtvVmG17TUY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/QtvVmG17TUY/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/QtvVmG17TUY/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "wl8wZ0kPj-E",
+      "title": "Dom Vegz - Last Alive",
+      "publishedAt": "2022-04-22T11:00:37Z",
+      "duration": "3:01",
+      "views": 60,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/wl8wZ0kPj-E/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/wl8wZ0kPj-E/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "-w7Ma8ZJ9VQ",
+      "title": "Dom Vegz - Glass Breaker",
+      "publishedAt": "2022-04-15T11:00:00Z",
+      "duration": "3:18",
+      "views": 54,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/-w7Ma8ZJ9VQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/-w7Ma8ZJ9VQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/-w7Ma8ZJ9VQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "I3V00OHs0oo",
+      "title": "Dom Vegz - Better",
+      "publishedAt": "2022-03-25T11:00:09Z",
+      "duration": "2:58",
+      "views": 68,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/I3V00OHs0oo/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/I3V00OHs0oo/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/I3V00OHs0oo/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "CGwUpdxmz8A",
+      "title": "Acraze - Do It To It (Ft. Cherish)(Dom Vegz Remix)",
+      "publishedAt": "2022-03-05T12:00:04Z",
+      "duration": "2:49",
+      "views": 3531,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/CGwUpdxmz8A/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/CGwUpdxmz8A/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/CGwUpdxmz8A/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "YIvYD0ZF6P0",
+      "title": "Dom Vegz - Chasing Sound (Dom Vegz House Edit)",
+      "publishedAt": "2022-02-14T12:00:15Z",
+      "duration": "3:00",
+      "views": 134,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/YIvYD0ZF6P0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/YIvYD0ZF6P0/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/YIvYD0ZF6P0/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "pupmqsPYsNY",
+      "title": "Dom Vegz - Chasing Sound",
+      "publishedAt": "2022-02-13T12:00:23Z",
+      "duration": "2:32",
+      "views": 65,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/pupmqsPYsNY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/pupmqsPYsNY/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/pupmqsPYsNY/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "3axFCO-rT_8",
+      "title": "Dom Vegz - Treasure",
+      "publishedAt": "2022-01-11T12:00:03Z",
+      "duration": "2:37",
+      "views": 123,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/3axFCO-rT_8/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/3axFCO-rT_8/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/3axFCO-rT_8/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "hWLUro2OedE",
+      "title": "Lil Peep x Lil Tracy - Witchblades (Dom Vegz  Remix)",
+      "publishedAt": "2021-12-27T12:00:18Z",
+      "duration": "2:32",
+      "views": 300,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/hWLUro2OedE/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/hWLUro2OedE/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/hWLUro2OedE/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "t5fgOb5ZDwE",
+      "title": "Mariah Carey - All I Want For Christmas Is You (Dom Vegz & Max WoodZ Remix)",
+      "publishedAt": "2021-12-11T12:00:20Z",
+      "duration": "3:56",
+      "views": 80,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/t5fgOb5ZDwE/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/t5fgOb5ZDwE/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/t5fgOb5ZDwE/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "-sVuslXvKoI",
+      "title": "Dom Vegz - Stick The Love",
+      "publishedAt": "2021-10-01T11:00:01Z",
+      "duration": "3:31",
+      "views": 109,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/-sVuslXvKoI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/-sVuslXvKoI/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/-sVuslXvKoI/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "vwQBHtVFsR4",
+      "title": "ANNA MIA - No Need To Be Afraid (Dom Vegz Remix)",
+      "publishedAt": "2021-09-18T11:00:35Z",
+      "duration": "2:50",
+      "views": 97,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/vwQBHtVFsR4/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/vwQBHtVFsR4/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/vwQBHtVFsR4/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "Xt0YapTSHXw",
+      "title": "Dom Vegz & Max WoodZ - Infinite (Dom Vegz Edit)",
+      "publishedAt": "2021-09-04T11:00:29Z",
+      "duration": "3:01",
+      "views": 159,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Xt0YapTSHXw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Xt0YapTSHXw/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "Eyt_biQaJzs",
+      "title": "Dom Vegz & Max WoodZ - Infinite",
+      "publishedAt": "2021-09-03T14:00:06Z",
+      "duration": "2:56",
+      "views": 59,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/Eyt_biQaJzs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/Eyt_biQaJzs/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "HN-t-1OpKD8",
+      "title": "Avicii - Levels (Dom Vegz Remake Remix)",
+      "publishedAt": "2021-08-18T11:00:06Z",
+      "duration": "3:32",
+      "views": 130,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/HN-t-1OpKD8/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/HN-t-1OpKD8/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "q8Ij-WPGbeI",
+      "title": "Dom Vegz - Escape",
+      "publishedAt": "2021-07-30T11:00:21Z",
+      "duration": "2:54",
+      "views": 75,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/q8Ij-WPGbeI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/q8Ij-WPGbeI/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "NwWtitRdOzI",
+      "title": "Dom Vegz Summer 2021 - Drops Only",
+      "publishedAt": "2021-06-16T12:00:09Z",
+      "duration": "5:50",
+      "views": 105,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/NwWtitRdOzI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/NwWtitRdOzI/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "N_bWQhLfmiY",
+      "title": "Dom Vegz Summer 2021 - Full Set",
+      "publishedAt": "2021-06-16T11:00:12Z",
+      "duration": "1:00:49",
+      "views": 57,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/N_bWQhLfmiY/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/N_bWQhLfmiY/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "ZaaChRbpJ0E",
+      "title": "Dom Vegz & Max WoodZ - Adventure",
+      "publishedAt": "2021-05-14T14:00:12Z",
+      "duration": "3:27",
+      "views": 117,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/ZaaChRbpJ0E/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/ZaaChRbpJ0E/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/ZaaChRbpJ0E/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "ozMiCO1wyqI",
+      "title": "SLANDER - Love Is Gone (Dom Vegz Remix)",
+      "publishedAt": "2021-05-07T11:00:36Z",
+      "duration": "5:42",
+      "views": 135,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/ozMiCO1wyqI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/ozMiCO1wyqI/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/ozMiCO1wyqI/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "cjlkh_7bsHI",
+      "title": "Dom Vegz Live Avicii Tribute Set 2021 - Drops Only",
+      "publishedAt": "2021-04-20T12:00:33Z",
+      "duration": "4:31",
+      "views": 166,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/cjlkh_7bsHI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/cjlkh_7bsHI/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "lLU1dzd2wDs",
+      "title": "Dom Vegz Live Avicii Tribute Set 2021 - Full Set",
+      "publishedAt": "2021-04-20T11:00:42Z",
+      "duration": "50:29",
+      "views": 48,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/lLU1dzd2wDs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/lLU1dzd2wDs/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "0ZLC36DdHqc",
+      "title": "Dom Vegz 2021 Birthday - Drops Only",
+      "publishedAt": "2021-04-15T12:00:43Z",
+      "duration": "4:24",
+      "views": 51,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/0ZLC36DdHqc/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/0ZLC36DdHqc/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "N95NeJ-2Qaw",
+      "title": "Dom Vegz 2021 Birthday - Full Set",
+      "publishedAt": "2021-04-15T11:00:08Z",
+      "duration": "54:52",
+      "views": 38,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/N95NeJ-2Qaw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/N95NeJ-2Qaw/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "_Sao_D3Kjas",
+      "title": "Dom Vegz - Pool",
+      "publishedAt": "2021-03-07T12:00:22Z",
+      "duration": "3:02",
+      "views": 79,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/_Sao_D3Kjas/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/_Sao_D3Kjas/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/_Sao_D3Kjas/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "2_2KS1tF5TU",
+      "title": "Dom Vegz & Max WoodZ - Time Flies",
+      "publishedAt": "2021-03-05T15:00:37Z",
+      "duration": "4:11",
+      "views": 132,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/2_2KS1tF5TU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/2_2KS1tF5TU/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "tRclPMLn0ds",
+      "title": "Dom Vegz Live Super Bowl LV 2021 - Drops Only",
+      "publishedAt": "2021-02-07T13:00:30Z",
+      "duration": "5:06",
+      "views": 57,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/tRclPMLn0ds/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/tRclPMLn0ds/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "_g19FP_ymL0",
+      "title": "Dom Vegz Super Bowl LV 2021 - Full Set",
+      "publishedAt": "2021-02-07T12:00:41Z",
+      "duration": "59:15",
+      "views": 30,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/_g19FP_ymL0/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/_g19FP_ymL0/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "nd_-bFzJdgU",
+      "title": "Dom Vegz - Existence",
+      "publishedAt": "2021-02-01T12:30:11Z",
+      "duration": "2:57",
+      "views": 147,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/nd_-bFzJdgU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/nd_-bFzJdgU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/nd_-bFzJdgU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "I1bxNxWGzhw",
+      "title": "Dom Vegz Live 2021 DJ Set - Drops Only",
+      "publishedAt": "2021-01-30T13:00:04Z",
+      "duration": "4:40",
+      "views": 51,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/I1bxNxWGzhw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/I1bxNxWGzhw/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "NlP7a_T3KqM",
+      "title": "Dom Vegz Live 2021 DJ Set - Full Set",
+      "publishedAt": "2021-01-30T12:00:07Z",
+      "duration": "1:00:37",
+      "views": 51,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/NlP7a_T3KqM/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/NlP7a_T3KqM/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "FYMPCNV_85g",
+      "title": "Dom Vegz - 2021 (Official Audio)",
+      "publishedAt": "2021-01-01T12:30:12Z",
+      "duration": "2:48",
+      "views": 58,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/FYMPCNV_85g/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/FYMPCNV_85g/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/FYMPCNV_85g/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "cuZ46_aKB4k",
+      "title": "Dom Vegz - 2021 (Official Music Video)",
+      "publishedAt": "2020-12-31T12:00:18Z",
+      "duration": "2:48",
+      "views": 123,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/cuZ46_aKB4k/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/cuZ46_aKB4k/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "qVuyJfjz2vg",
+      "title": "Dom Vegz Live Christmas DJ Set 2020 - Drops Only",
+      "publishedAt": "2020-12-25T18:52:41Z",
+      "duration": "4:57",
+      "views": 58,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/qVuyJfjz2vg/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/qVuyJfjz2vg/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "o0P2FmNUGQw",
+      "title": "Dom Vegz Live Christmas DJ Set 2020 - Full Set",
+      "publishedAt": "2020-12-25T12:00:17Z",
+      "duration": "59:07",
+      "views": 45,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/o0P2FmNUGQw/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/o0P2FmNUGQw/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "wZD8ssjdhjA",
+      "title": "Dom  Vegz - Smoke",
+      "publishedAt": "2020-12-14T12:00:30Z",
+      "duration": "3:01",
+      "views": 529,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/wZD8ssjdhjA/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/wZD8ssjdhjA/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/wZD8ssjdhjA/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "LX4uFHA3mgU",
+      "title": "Dom Vegz - Tap Out",
+      "publishedAt": "2020-12-03T12:30:48Z",
+      "duration": "3:41",
+      "views": 81,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/LX4uFHA3mgU/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/LX4uFHA3mgU/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/LX4uFHA3mgU/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "RtbvAfkiJxQ",
+      "title": "Dom Vegz - Live",
+      "publishedAt": "2020-11-19T12:00:29Z",
+      "duration": "2:54",
+      "views": 89,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/RtbvAfkiJxQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/RtbvAfkiJxQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/RtbvAfkiJxQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "xmMGiXTHf1c",
+      "title": "Dom Vegz - Free",
+      "publishedAt": "2020-11-11T23:00:13Z",
+      "duration": "3:10",
+      "views": 74,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/xmMGiXTHf1c/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/xmMGiXTHf1c/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/xmMGiXTHf1c/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "aA6-UNPbvG4",
+      "title": "Dom Vegz Live Halloween DJ Set - Drops Only",
+      "publishedAt": "2020-10-31T13:00:00Z",
+      "duration": "2:48",
+      "views": 92,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/aA6-UNPbvG4/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/aA6-UNPbvG4/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "n6k94eTN6Os",
+      "title": "Dom Vegz Live Halloween DJ Set - Full Set",
+      "publishedAt": "2020-10-31T12:00:10Z",
+      "duration": "43:43",
+      "views": 61,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/n6k94eTN6Os/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/n6k94eTN6Os/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "igoQRomSvNo",
+      "title": "Avicii - Without You (Dom Vegz Remix)",
+      "publishedAt": "2020-10-25T10:30:29Z",
+      "duration": "2:55",
+      "views": 124,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/igoQRomSvNo/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/igoQRomSvNo/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/igoQRomSvNo/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "YBFAc4YsBVA",
+      "title": "Dom Vegz - Battle",
+      "publishedAt": "2020-10-16T11:00:44Z",
+      "duration": "2:31",
+      "views": 75,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/YBFAc4YsBVA/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/YBFAc4YsBVA/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "0-Iz5ySJE40",
+      "title": "Dom Vegz Live 4th Of July DJ Set 2020 (Drops Only)",
+      "publishedAt": "2020-07-13T00:47:11Z",
+      "duration": "4:02",
+      "views": 98,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/0-Iz5ySJE40/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/0-Iz5ySJE40/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "K9r6kSydFlo",
+      "title": "Dom Vegz Live 4th Of July DJ Set 2020 - Full Set",
+      "publishedAt": "2020-07-13T00:46:35Z",
+      "duration": "1:05:53",
+      "views": 62,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/K9r6kSydFlo/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/K9r6kSydFlo/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "l03vbO_voJ8",
+      "title": "Dom Vegz - Quarantine",
+      "publishedAt": "2020-03-26T11:00:28Z",
+      "duration": "1:45",
+      "views": 137,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/l03vbO_voJ8/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/l03vbO_voJ8/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "NyolSopPvLE",
+      "title": "Dom Vegz - Locked",
+      "publishedAt": "2020-02-29T11:00:09Z",
+      "duration": "2:45",
+      "views": 104,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/NyolSopPvLE/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/NyolSopPvLE/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "f75LUOaRCyI",
+      "title": "Dom Vegz - Lasers",
+      "publishedAt": "2019-11-28T07:06:48Z",
+      "duration": "3:16",
+      "views": 305,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/f75LUOaRCyI/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/f75LUOaRCyI/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "AcTjEdQkMeE",
+      "title": "Dom Vegz & Allien House - We Take Over",
+      "publishedAt": "2019-10-17T12:35:36Z",
+      "duration": "2:13",
+      "views": 168,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/AcTjEdQkMeE/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/AcTjEdQkMeE/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/AcTjEdQkMeE/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "EC7pYdu7ARs",
+      "title": "Afojack & Martin Garrix - Turn Up The Speakers (Dom Vegz Intro Edit)",
+      "publishedAt": "2019-07-30T17:36:03Z",
+      "duration": "5:00",
+      "views": 1918,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/EC7pYdu7ARs/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/EC7pYdu7ARs/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/EC7pYdu7ARs/maxresdefault.jpg"
+      }
+    },
+    {
+      "id": "zr24qI-WMaE",
+      "title": "Dom Vegz - Tweet Me",
+      "publishedAt": "2019-07-23T21:52:33Z",
+      "duration": "4:42",
+      "views": 92,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/zr24qI-WMaE/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/zr24qI-WMaE/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "N92NNoMewno",
+      "title": "Dom Vegz - Hut (Official Music Video)",
+      "publishedAt": "2019-06-24T13:03:20Z",
+      "duration": "3:55",
+      "views": 141,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/N92NNoMewno/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/N92NNoMewno/hqdefault.jpg"
+      }
+    },
+    {
+      "id": "aZp40zjoQ9M",
+      "title": "Dom Vegz - Footage",
+      "publishedAt": "2019-03-05T16:43:37Z",
+      "duration": "2:20",
+      "views": 199,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/aZp40zjoQ9M/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/aZp40zjoQ9M/hqdefault.jpg"
+      }
+    }
   ]
 }
