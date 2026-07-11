@@ -1,0 +1,25 @@
+{
+  "_fixture": true,
+  "_note": "Placeholder data seeded by hand because .github/workflows/youtube-sync.yml has not run yet (pending first workflow_dispatch or the nightly cron). Video IDs are fake and thumbnails will 404 until the real sync overwrites this file end-to-end. Safe to ignore/delete once the Action has run once.",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "channel": {
+    "id": "UCDDzP8DrQ9JAPmgs1VpF2PQ",
+    "handle": "@DomVegz",
+    "url": "https://www.youtube.com/@DomVegz",
+    "musicUrl": "https://music.youtube.com/channel/UCDDzP8DrQ9JAPmgs1VpF2PQ"
+  },
+  "videos": [
+    { "id": "fx_00000012", "title": "Bliss (Official Audio)", "publishedAt": "2026-06-02T18:00:00.000Z", "duration": "3:24", "views": 1840, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000012/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000012/hqdefault.jpg" } },
+    { "id": "fx_00000011", "title": "Live @ Boise Music Festival 2026 - Mainstage Full Set", "publishedAt": "2026-05-20T02:30:00.000Z", "duration": "42:10", "views": 3120, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000011/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000011/hqdefault.jpg" } },
+    { "id": "fx_00000010", "title": "Nostalgia (Official Visualizer)", "publishedAt": "2026-04-11T17:00:00.000Z", "duration": "3:58", "views": 2410, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000010/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000010/hqdefault.jpg" } },
+    { "id": "fx_00000009", "title": "Advanced (Official Audio)", "publishedAt": "2026-03-05T16:00:00.000Z", "duration": "3:12", "views": 1560, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000009/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000009/hqdefault.jpg" } },
+    { "id": "fx_00000008", "title": "Track Teaser - New Release Preview", "publishedAt": "2026-02-14T19:20:00.000Z", "duration": "0:47", "views": 980, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000008/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000008/hqdefault.jpg" } },
+    { "id": "fx_00000007", "title": "Bankruptcy (Official Audio)", "publishedAt": "2026-01-09T15:00:00.000Z", "duration": "3:33", "views": 2050, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000007/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000007/hqdefault.jpg" } },
+    { "id": "fx_00000006", "title": "Studio Session - Behind the Productions", "publishedAt": "2025-11-22T20:00:00.000Z", "duration": "8:15", "views": 1230, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000006/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000006/hqdefault.jpg" } },
+    { "id": "fx_00000005", "title": "All-Nighter (Official Audio)", "publishedAt": "2025-10-03T16:30:00.000Z", "duration": "4:02", "views": 2870, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000005/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000005/hqdefault.jpg" } },
+    { "id": "fx_00000004", "title": "Purpose of Life (Official Audio)", "publishedAt": "2025-08-19T17:45:00.000Z", "duration": "3:41", "views": 3340, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000004/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000004/hqdefault.jpg" } },
+    { "id": "fx_00000003", "title": "Boise Music Festival 2025 - Hip Hop / Rap Stage", "publishedAt": "2025-06-28T03:00:00.000Z", "duration": "38:22", "views": 4210, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000003/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000003/hqdefault.jpg" } },
+    { "id": "fx_00000002", "title": "Shine (Official Audio)", "publishedAt": "2025-05-02T16:00:00.000Z", "duration": "3:29", "views": 1990, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000002/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000002/hqdefault.jpg" } },
+    { "id": "fx_00000001", "title": "Treefort Music Fest - Festival Set, Boise ID", "publishedAt": "2025-03-27T02:15:00.000Z", "duration": "29:50", "views": 1670, "thumb": { "medium": "https://i.ytimg.com/vi/fx_00000001/mqdefault.jpg", "high": "https://i.ytimg.com/vi/fx_00000001/hqdefault.jpg" } }
+  ]
+}
