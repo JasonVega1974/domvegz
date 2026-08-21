@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:41:35.329Z",
+  "generatedAt": "2026-08-21T09:43:41.249Z",
   "channel": {
     "id": "UCDDzP8DrQ9JAPmgs1VpF2PQ",
     "handle": "@DomVegz",
@@ -8,11 +8,23 @@
   },
   "videos": [
     {
+      "id": "JrlzPRF4fow",
+      "title": "Dom Vegz - Weightless",
+      "publishedAt": "2026-08-21T06:00:11Z",
+      "duration": "3:32",
+      "views": 2,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/JrlzPRF4fow/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/JrlzPRF4fow/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/JrlzPRF4fow/maxresdefault.jpg"
+      }
+    },
+    {
       "id": "ZktmVprbwbs",
       "title": "Dom Vegz Live @ Boise Music Festival 2026 (Hip Hop/Rap Stage)",
       "publishedAt": "2026-07-10T17:13:06Z",
       "duration": "1:12:59",
-      "views": 62,
+      "views": 63,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/ZktmVprbwbs/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/ZktmVprbwbs/hqdefault.jpg"
@@ -23,7 +35,7 @@
       "title": "Dom Vegz - I See You",
       "publishedAt": "2026-07-10T15:31:40Z",
       "duration": "2:55",
-      "views": 1055,
+      "views": 1056,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/-y_1VNiS7WQ/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/-y_1VNiS7WQ/hqdefault.jpg",
@@ -47,7 +59,7 @@
       "title": "Max WoodZ & Dom Vegz - Bliss",
       "publishedAt": "2026-06-12T06:00:14Z",
       "duration": "3:03",
-      "views": 24,
+      "views": 25,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/fgommADl_kg/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/fgommADl_kg/hqdefault.jpg",
@@ -678,7 +690,7 @@
       "title": "Dom Vegz- Paradise",
       "publishedAt": "2023-06-02T12:00:29Z",
       "duration": "2:45",
-      "views": 76,
+      "views": 77,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/hV8s9zdDn64/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/hV8s9zdDn64/hqdefault.jpg",
@@ -807,7 +819,7 @@
       "title": "Tate McRae - You Broke Me First (Dom Vegz & Max WoodZ Remix)",
       "publishedAt": "2022-12-23T14:00:12Z",
       "duration": "3:56",
-      "views": 66,
+      "views": 67,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/H9qHpera8ZM/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/H9qHpera8ZM/hqdefault.jpg",
@@ -1117,7 +1129,7 @@
       "title": "Dom Vegz & Max WoodZ - Infinite (Dom Vegz Edit)",
       "publishedAt": "2021-09-04T11:00:29Z",
       "duration": "3:01",
-      "views": 159,
+      "views": 160,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/Xt0YapTSHXw/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/Xt0YapTSHXw/hqdefault.jpg"
@@ -1183,7 +1195,7 @@
       "title": "Dom Vegz & Max WoodZ - Adventure",
       "publishedAt": "2021-05-14T14:00:12Z",
       "duration": "3:27",
-      "views": 118,
+      "views": 119,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/ZaaChRbpJ0E/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/ZaaChRbpJ0E/hqdefault.jpg",
@@ -1263,7 +1275,7 @@
       "title": "Dom Vegz & Max WoodZ - Time Flies",
       "publishedAt": "2021-03-05T15:00:37Z",
       "duration": "4:11",
-      "views": 132,
+      "views": 133,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/2_2KS1tF5TU/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/2_2KS1tF5TU/hqdefault.jpg"
