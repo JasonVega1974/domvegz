@@ -178,6 +178,10 @@
   ],
   "photos": [
     {
+      "url": "",
+      "size": ""
+    },
+    {
       "url": "assets/img/photos/forest-portrait.webp",
       "size": "tall"
     },
@@ -215,7 +219,7 @@
     }
   ],
   "merch": [],
-  "portraitUrl": "assets/img/portrait.webp",
+  "portraitUrl": "assets/img/portrait-1788626233505.jpg",
   "settings": {
     "showBooking": false
   },
