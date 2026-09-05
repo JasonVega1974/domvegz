@@ -189,7 +189,7 @@
 
   /* ---------- section schema ---------- */
   var SECTIONS={
-    releases:{ label:"Releases", singular:"release", key:"releases", titleKey:"t", sub:"Songs, albums & EPs. First = newest, shown top-left.",
+    releases:{ label:"Releases", singular:"release", key:"releases", titleKey:"t", image:true, imgKey:"cover", sub:"Songs, albums & EPs. First = newest, shown top-left. Upload a cover, or leave it empty to auto-match gallery art by title.",
       fields:[
         {k:"t",label:"Title"},
         {k:"y",label:"Year / tag",ph:"2026 or EP"},
@@ -197,7 +197,7 @@
         {k:"c1",label:"Cover color 1",type:"color"},
         {k:"c2",label:"Cover color 2",type:"color"}
       ],
-      blank:function(){return {t:"New release",y:"2026",url:"https://",c1:"#FFB13C",c2:"#FF4D6D"};} },
+      blank:function(){return {t:"New release",y:"2026",url:"https://",c1:"#FFB13C",c2:"#FF4D6D",cover:""};} },
 
     shows:{ label:"Shows", singular:"show", key:"shows", titleKey:"t", sub:"Live dates & festivals. Mark one as ‘latest’ to highlight it.",
       fields:[
@@ -455,7 +455,8 @@
         ? '<img class="img-prev" src="../'+esc(it[sec.imgKey])+'?cb='+Date.now()+'" alt="">'
         : '<div class="img-prev ph">◦</div>';
       imgHtml='<div class="full"><label class="inl">Image</label><div class="img-row">'+pv+
-        '<div><button class="btn-sm" data-act="upload">Upload photo…</button>'+
+        '<div><button class="btn-sm" data-act="upload">Upload photo…</button> '+
+        (it[sec.imgKey]?'<button class="btn-sm btn-danger" data-act="clearimg">Remove</button>':'')+
         '<input type="file" accept="image/*" class="hidden" data-file="1">'+
         '<div class="hint">'+(it[sec.imgKey]?esc(it[sec.imgKey]):"JPG/PNG/WebP, up to ~5 MB. Optimize large files first.")+'</div></div></div></div>';
     }
@@ -512,7 +513,7 @@
   });
   document.addEventListener("change",function(e){
     var el=e.target;
-    if(el.getAttribute("data-file")){ var card=el.closest(".card[data-i]"); if(card){ uploadImage(el.files[0],"photo",+card.getAttribute("data-i")); } return; }
+    if(el.getAttribute("data-file")){ var card=el.closest(".card[data-i]"); if(card){ uploadImage(el.files[0],active==="releases"?"cover":"photo",+card.getAttribute("data-i")); } return; }
     var k=el.getAttribute("data-k");
     if(el.tagName==="SELECT"&&k){
       var c=el.closest(".card[data-i]"); if(!c) return;
@@ -534,6 +535,7 @@
     if(act==="up"&&i>0){ arr.splice(i-1,0,arr.splice(i,1)[0]); setDirty(true); render(); }
     else if(act==="down"&&i<arr.length-1){ arr.splice(i+1,0,arr.splice(i,1)[0]); setDirty(true); render(); }
     else if(act==="del"){ if(confirm("Delete this "+sec.singular+"?")){ arr.splice(i,1); setDirty(true); render(); } }
+    else if(act==="clearimg"){ arr[i][sec.imgKey]=""; setDirty(true); render(); }
     else if(act==="upload"){ card.querySelector('[data-file]').click(); }
   });
 
@@ -548,7 +550,7 @@
     if(!file) return;
     if(file.size>5*1024*1024){ toast("Image too large (max ~5 MB). Optimize it first.","err"); return; }
     var ext=(file.name.split(".").pop()||"jpg").toLowerCase().replace(/[^a-z0-9]/g,"")||"jpg";
-    var base=(kind==="portrait"?"portrait":"photo")+"-"+Date.now();
+    var base=kind+"-"+Date.now();
     var path=IMG_DIR+"/"+base+"."+ext;
     toast("Uploading…","");
     var reader=new FileReader();

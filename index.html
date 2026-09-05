@@ -1114,7 +1114,7 @@ if(DOM.portraitUrl){ const _p=$('#portrait'); if(_p){ _p.innerHTML='<img src="'+
 let releaseCoverMap = new Map();
 function renderReleaseGrid(){
   $('#releaseGrid').innerHTML = DOM.releases.map(r=>{
-    const cover = releaseCoverMap.get(normTitle(r.t));
+    const cover = r.cover || releaseCoverMap.get(normTitle(r.t));
     const art = cover ? `<img src="${cover}" alt="" loading="lazy" decoding="async">` : '';
     return `
   <a class="release" href="${r.url}" target="_blank" rel="noopener">

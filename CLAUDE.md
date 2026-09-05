@@ -15,6 +15,7 @@ Official site for Dom Vegz (EDM producer/DJ, Nampa, Idaho). Static site on GitHu
 
 - `DEFAULT_DOM` (const, inline in `index.html`, ~line 756) is the **fallback** — ships with the page, renders immediately.
 - `content.json` (repo root) is the **live override**, fetched at runtime (`fetch('content.json')`) and merged with `Object.assign({}, DEFAULT_DOM, d)`. This is what the admin panel edits/commits. Keep its shape (`stats`, `heroMini`, `releases`, `shows`, `videos`, `social`, `photos`, `portraitUrl`, `settings`) in sync with `DEFAULT_DOM` — the admin panel and `renderAll()` both depend on these exact keys.
+- Each release may carry an optional `cover` (repo-relative image path, uploaded via the admin Releases tab as `assets/img/cover-*`). `renderReleaseGrid()` prefers it over the gallery title-match; empty/absent falls back to title-match, then gradient. Release covers are separate from the `photos` array and never appear in the Photos section.
 - Section anchors (`#media`, `#book`, etc.) and DOM ids (`#statGrid`, `#releaseGrid`, `#timeline`, `#videoGrid`, `#photoGrid`, `#socials`, `#heroMini`, `#marquee`) are load-bearing — nav links and `renderAll()` both target them. Don't rename without updating both.
 
 ## Gallery / cover art
