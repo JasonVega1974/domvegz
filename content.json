@@ -111,14 +111,14 @@
   "shows": [
     {
       "when": "Jun 27, 2026",
-      "t": "Boise Music Festival 2026",
+      "t": "Boise Music Festival",
       "p": "Expo Idaho · Local Hip Hop / Rap Stage · festival headlined by Marshmello, Sean Paul, Everclear, Eve 6 & MKTO",
       "tag": "Festival",
       "up": true
     },
     {
       "when": "2025",
-      "t": "Boise Music Festival 2025",
+      "t": "Boise Music Festival",
       "p": "Expo Idaho · Local Hip Hop / Rap Stage · festival headlined by Flo Rida, Tyler Hubbard, Neon Trees, Luke Grimes, Sir Mix-A-Lot & Bryan Martin",
       "tag": "Festival",
       "up": false
@@ -126,21 +126,21 @@
     {
       "when": "2024",
       "t": "Treefort Music Fest",
-      "p": "Boise, Idaho · multi-stage indie & electronic festival",
+      "p": "Boise, Idaho ",
       "tag": "Festival",
       "up": false
     },
     {
       "when": "2024",
       "t": "Mr. NHS Talent Showcase",
-      "p": "Nampa High School · runner-up performance",
+      "p": "Nampa High School · runner-up performance • talent show",
       "tag": "Showcase",
       "up": false
     },
     {
       "when": "2023",
       "t": "Treefort Music Fest",
-      "p": "Boise, Idaho · early festival breakout",
+      "p": "Boise, Idaho ·",
       "tag": "Festival",
       "up": false
     }
