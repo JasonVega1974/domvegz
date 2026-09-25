@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:08:56.990Z",
+  "generatedAt": "2026-09-25T14:32:38.808Z",
   "channel": {
     "id": "UCDDzP8DrQ9JAPmgs1VpF2PQ",
     "handle": "@DomVegz",
@@ -7,6 +7,18 @@
     "musicUrl": "https://music.youtube.com/channel/UCDDzP8DrQ9JAPmgs1VpF2PQ"
   },
   "videos": [
+    {
+      "id": "T-Ml4cd4KyQ",
+      "title": "Dom Vegz - Old Days",
+      "publishedAt": "2026-09-25T06:00:30Z",
+      "duration": "3:11",
+      "views": 4,
+      "thumb": {
+        "medium": "https://i.ytimg.com/vi/T-Ml4cd4KyQ/mqdefault.jpg",
+        "high": "https://i.ytimg.com/vi/T-Ml4cd4KyQ/hqdefault.jpg",
+        "maxres": "https://i.ytimg.com/vi/T-Ml4cd4KyQ/maxresdefault.jpg"
+      }
+    },
     {
       "id": "JrlzPRF4fow",
       "title": "Dom Vegz - Weightless",
@@ -24,7 +36,7 @@
       "title": "Dom Vegz Live @ Boise Music Festival 2026 (Hip Hop/Rap Stage)",
       "publishedAt": "2026-07-10T17:13:06Z",
       "duration": "1:12:59",
-      "views": 68,
+      "views": 70,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/ZktmVprbwbs/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/ZktmVprbwbs/hqdefault.jpg"
@@ -35,7 +47,7 @@
       "title": "Dom Vegz - I See You",
       "publishedAt": "2026-07-10T15:31:40Z",
       "duration": "2:55",
-      "views": 1068,
+      "views": 1069,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/-y_1VNiS7WQ/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/-y_1VNiS7WQ/hqdefault.jpg",
@@ -59,7 +71,7 @@
       "title": "Max WoodZ & Dom Vegz - Bliss",
       "publishedAt": "2026-06-12T06:00:14Z",
       "duration": "3:03",
-      "views": 25,
+      "views": 26,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/fgommADl_kg/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/fgommADl_kg/hqdefault.jpg",
@@ -819,7 +831,7 @@
       "title": "Tate McRae - You Broke Me First (Dom Vegz & Max WoodZ Remix)",
       "publishedAt": "2022-12-23T14:00:12Z",
       "duration": "3:56",
-      "views": 67,
+      "views": 68,
       "thumb": {
         "medium": "https://i.ytimg.com/vi/H9qHpera8ZM/mqdefault.jpg",
         "high": "https://i.ytimg.com/vi/H9qHpera8ZM/hqdefault.jpg",
